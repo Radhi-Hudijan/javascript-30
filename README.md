@@ -30,7 +30,7 @@ Each time you finish one of these projects, check it off (`- [x]`) and provide a
 
 - [x] 01 - [drum kit](https://github.com/Radhi-Hudijan/Drum-Kit)
 - [x] 02 - [clock](https://radhi-hudijan.github.io/JS-and-CSS-Clock/index.html)
-- [ ] 03 - [css variables]()
+- [x] 03 - [css variables](https://radhi-hudijan.github.io/Playing-with-CSS-Variables-and-JS/index.html)
 - [ ] 05 - [flex panel gallery]()
 - [ ] 06 - [type ahead]()
 - [ ] 08 - [fun with html5 canvas]()
