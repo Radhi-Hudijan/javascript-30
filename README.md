@@ -28,7 +28,7 @@ JS 30 Projects are complete websites with full user interactions. To practice se
 
 Each time you finish one of these projects, check it off (`- [x]`) and provide a link to your refactored project. If you completed it as a group project you can link to the repository.
 
-- [ ] 01 - [drum kit]()
+- [x] 01 - [drum kit]()
 - [ ] 02 - [clock]()
 - [ ] 03 - [css variables]()
 - [ ] 05 - [flex panel gallery]()
