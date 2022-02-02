@@ -61,7 +61,7 @@ Each time you finish one of these projects, check it off (`- [x]`) and provide a
 
 These are for individual study. Because these are challenges without a full user interface, you don't need to do any extra refactoring or project planning. You can put your finished code and notes directly in the [./practice](./practice) folder of this repo.
 
-- [ ] 04 - [array cardio day 1]()
+- [x] 04 - [array cardio day 1]()
 - [ ] 06 - [array cardio day 2]()
 - [ ] 09 - [dev tools domination]()
 - [ ] 14 - [javascript reverences vs copying]()
