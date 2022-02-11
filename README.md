@@ -32,7 +32,7 @@ Each time you finish one of these projects, check it off (`- [x]`) and provide a
 - [x] 02 - [clock](https://radhi-hudijan.github.io/JS-and-CSS-Clock/index.html)
 - [x] 03 - [css variables](https://radhi-hudijan.github.io/Playing-with-CSS-Variables-and-JS/index.html)
 - [ ] 05 - [flex panel gallery]()
-- [ ] 06 - [type ahead]()
+- [x] 06 - [type ahead](https://radhi-hudijan.github.io/Type-Ahead-Feature/index.html)
 - [ ] 08 - [fun with html5 canvas]()
 - [ ] 10 - [Hold Shift and Check Checkboxes]()
 - [ ] 11 - [Custom Video Player]()
