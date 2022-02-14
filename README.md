@@ -64,7 +64,7 @@ These are for individual study. Because these are challenges without a full user
 - [x] 04 - [array cardio day 1]()
 - [x] 06 - [array cardio day 2]()
 - [x] 09 - [dev tools domination]()
-- [ ] 14 - [javascript reverences vs copying]()
+- [x] 14 - [javascript reverences vs copying]()
 - [ ] 18 - [Adding Up Times with Reduce]()
 - [ ] 25 - [Event Capture, Propagation, Bubbling]()
 
