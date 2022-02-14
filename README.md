@@ -50,7 +50,7 @@ Each time you finish one of these projects, check it off (`- [x]`) and provide a
 - [ ] 26 - [Stripe Follow Along Nav]()
 - [ ] 27 - [Click & Drag]()
 - [ ] 28 - [Video Speed Controller]()
-- [ ] 29 - [Countdown timer]()
+- [x] 29 - [Countdown timer](https://radhi-hudijan.github.io/Countdown-Timer/index.html)
 - [ ] 30 - [Whack a Mole]()
 
 [TOP](#javascript-30)
