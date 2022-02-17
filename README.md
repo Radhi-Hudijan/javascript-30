@@ -38,7 +38,7 @@ Each time you finish one of these projects, check it off (`- [x]`) and provide a
 - [ ] 11 - [Custom Video Player]()
 - [ ] 12 - [Key Sequence Detection]()
 - [ ] 13 - [Slide in on a Scroll]()
-- [ ] 15 - [LocalStorage]()
+- [x] 15 - [LocalStorage](https://radhi-hudijan.github.io/LocalStorage/index.html)
 - [ ] 16 - [Mouse Move Shadow]()
 - [x] 17 - [Sort Without Articles](https://radhi-hudijan.github.io/Sort-Without-Articles/index.html)
 - [ ] 19 - [Webcam Fun]()
